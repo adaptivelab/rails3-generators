@@ -50,4 +50,6 @@ Shoulda: Peter Haza
 
 SimpleForm: Peter Gumeson
 
+CouchrestModel: Shenouda Bertel
+
 and more[http://github.com/indirect/rails3-generators/contributors]
